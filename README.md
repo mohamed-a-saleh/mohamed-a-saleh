@@ -6,4 +6,4 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-a-saleh"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/MoSaleh1262"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
-  <a href="mo.a.saleh2@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto: mo.a.saleh2@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
