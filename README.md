@@ -11,3 +11,11 @@
   <a href="#" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Under%20Development-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
+---
+
+## 🚀 About Me
+
+Detail-oriented Data Analyst with hands-on experience in SQL, Power BI, Python, and Excel. Skilled in Exploratory Data Analysis (EDA), ETL processes, data cleaning, data modeling, and building interactive dashboards that transform raw data into actionable business insights. Experienced in Business Intelligence (BI) reporting and KPI tracking. Seeking a data analyst or BI analyst role to contribute to data-driven decision-making.
+
+---
+
