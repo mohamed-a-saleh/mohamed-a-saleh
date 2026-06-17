@@ -47,8 +47,6 @@ Detail-oriented Data Analyst with hands-on experience in SQL, Power BI, Python, 
   <img src="https://img.shields.io/badge/Data%20Storytelling-Advanced-45B7D1?style=flat">
 </p>
 
-
-### 📤 My Social Accounts
 ---
 
 <p>
