@@ -6,8 +6,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-a-saleh"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/mohamed-a-saleh"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
-  <a href="mailto: https://mail.google.com/mail/m.ashraf.saleh10@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://drive.google.com/file/d/1Q5cJODydIXJkqyufDBTPr0vS1TjGFhar/view?usp=sharing" target="_blank"><img alt="CV" src="https://img.shields.io/badge/CV-View%20Resume-yello?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
+  <a href="mailto:m.ashraf.saleh10@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://drive.google.com/file/d/1Q5cJODydIXJkqyufDBTPr0vS1TjGFhar/view?usp=drive_link" target="_blank"><img alt="CV" src="https://img.shields.io/badge/CV-View%20Resume-yello?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
   <a href="#" target="_blank"><img alt="Portfolio" src="https://drive.google.com/file/d/1Q5cJODydIXJkqyufDBTPr0vS1TjGFhar/view?usp=sharing"/></a>
 </p>
 
